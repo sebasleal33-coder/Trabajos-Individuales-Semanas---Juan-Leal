@@ -25,7 +25,7 @@ TIPOS_VALIDOS = ("CREDITO", "DEBITO")
 # 1. Definición de la Clase Transaccion
 # ---------------------------------------------------------------------------
 class Transaccion:
-    """Representa una transacción individual del sistema Quantum Core.
+    """ Esta clase representará una transacción individual del sistema.
 
     Encapsula en un único objeto los datos que en la versión estructurada
     estaban dispersos en un diccionario (ID, tipo y monto), junto con las
@@ -90,7 +90,7 @@ class Transaccion:
 
     # ----- Comportamientos del objeto --------------------------------------
     def es_tipo(self, tipo_filtro):
-        """Indica si la transacción es del tipo consultado.
+        """Indica si la transacción es del tipo que se consultó.
 
         Args:
             tipo_filtro (str): "CREDITO" o "DEBITO".
@@ -110,7 +110,6 @@ class Transaccion:
             f"Transacción {self.transaccion_id} | "
             f"Tipo: {self.tipo} | Monto: ${self.monto:,.2f}"
         )
-
 
 # ---------------------------------------------------------------------------
 # 2. Clase auxiliar de gestión (lógica de procesamiento de la PE)

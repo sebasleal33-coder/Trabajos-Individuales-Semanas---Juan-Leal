@@ -56,4 +56,4 @@ La ejecución produce los mismos resultados que la versión estructurada (8 regi
 
 ## Uso de inteligencia artificial
 
-Se utilizó Claude (Anthropic) como apoyo para estructurar el código, redactar la documentación y el informe. Los detalles se declaran en el apartado correspondiente del informe en Word.
+Se utilizó Claude (Anthropic) como apoyo para revisar la estructura del código, redactar la documentación y el informe. Los detalles se declaran en el apartado correspondiente del informe en Word que se entregará en el CANVAS.
