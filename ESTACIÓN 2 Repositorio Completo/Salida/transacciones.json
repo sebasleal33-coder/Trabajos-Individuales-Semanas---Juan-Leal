@@ -1,0 +1,42 @@
+[
+    {
+        "transaccion_id": "C001",
+        "tipo": "DEBITO",
+        "monto": 2500000.0
+    },
+    {
+        "transaccion_id": "C002",
+        "tipo": "CREDITO",
+        "monto": 700000.0
+    },
+    {
+        "transaccion_id": "C003",
+        "tipo": "DEBITO",
+        "monto": 756000.0
+    },
+    {
+        "transaccion_id": "C004",
+        "tipo": "CREDITO",
+        "monto": 640000.0
+    },
+    {
+        "transaccion_id": "C005",
+        "tipo": "DEBITO",
+        "monto": 2400000.0
+    },
+    {
+        "transaccion_id": "C006",
+        "tipo": "DEBITO",
+        "monto": 1500000.0
+    },
+    {
+        "transaccion_id": "C007",
+        "tipo": "CREDITO",
+        "monto": 900000.0
+    },
+    {
+        "transaccion_id": "C008",
+        "tipo": "CREDITO",
+        "monto": 1850000.0
+    }
+]
